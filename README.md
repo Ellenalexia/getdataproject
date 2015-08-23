@@ -5,6 +5,9 @@ This project is schoolwork. It's not optimized, not reviewed, and not flexible. 
 
 ## What does this project do?
 
+For helpful discussion post from August 2015 forums, see https://class.coursera.org/getdata-031/forum/thread?thread_id=28
+Credit: Community TA David Hood
+
 ### Overview (homework requirements)
 1. Merge training and test sets to create one data set.
 2. Extracts for each measurement only the measurements on the mean and standard deviation. 
