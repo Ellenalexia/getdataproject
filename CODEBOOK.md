@@ -30,6 +30,7 @@ See original data source for more information about the study.
 
 ## Variable list
 * Numeric endings correspond to original column placement in source data.
+
 activity (values include: 'WALKING','WALKING_UPSTAIRS','WALKING_DOWNSTAIRS','SITTING','STANDING','LAYING')
 
 subjectID
